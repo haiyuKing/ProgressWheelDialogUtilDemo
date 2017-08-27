@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- **************ProgressWheelDialogUtil【Materialish样式的进度条对话框】**************-->
+    <!-- 加载进度条颜色 -->
+    <color name="progress_wheel_bar_color">#5588FF</color>
+    <!-- 加载进度条文字颜色 -->
+    <color name="progress_wheel_text_color">#5588FF</color>
+</resources>

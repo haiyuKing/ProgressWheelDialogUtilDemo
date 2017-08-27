@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- **************ProgressWheelDialogUtil【Materialish样式的进度条对话框】**************-->
+    <!-- 加载进度条的宽度 -->
+    <dimen name="progresswheel_width">50dp</dimen>
+    <dimen name="progresswheel_width_upload">80dp</dimen>
+    <!-- 加载进度条的高度 -->
+    <dimen name="progresswheel_height">50dp</dimen>
+    <!-- 加载进度条的文字大小 -->
+    <dimen name="progresswheel_text_size">18sp</dimen>
+
+</resources>
